@@ -4,7 +4,7 @@ recon from my perspective and  combining different methodlogies of security reas
 
 Increasing the target region:
 
-## 1 find subdomains of target from different tools || google dorks  
+## Part 1 find subdomains of target from different tools || google dorks  
 
 ### google dorks:
 
@@ -17,3 +17,6 @@ sublist3r -d domain-name
 ### dnsrecon :
 
 dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
+
+
+### Part 2 How to organise work for bug bounty 
