@@ -20,3 +20,5 @@ dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 
 
 ### Part 2 How to organise work for bug bounty 
+
+<a href="">JASON HADIX TEMPLATE</a>
