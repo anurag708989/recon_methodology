@@ -21,4 +21,6 @@ dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 
 ### Part 2 How to organise work for bug bounty 
 
+software for organizing the work: xmind
+
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
