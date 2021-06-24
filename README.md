@@ -24,3 +24,5 @@ dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 software for organizing the work: xmind
 
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
+
+### Part 3 directry fuzzing or content finding  (ffuz), httprobe , bypxx 
