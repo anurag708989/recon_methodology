@@ -4,7 +4,7 @@ recon from my perspective and  combining different methodlogies of security reas
 
 Increasing the target region:
 
-##  find subdomains of target from different tools || google dorks  
+##  1 find subdomains of target from different tools || google dorks  
 
 ### google dorks:
 
@@ -19,13 +19,13 @@ sublist3r -d domain-name
 dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 
 
-### Recon Part 1 How to organise work for bug bounty 
+###  2 How to organise work for bug bounty 
 
 software for organizing the work: xmind
 
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
 
-### Recon Part 2 directry fuzzing or content finding  (ffuz), httprobe , byp4xx 
+### 3 directry fuzzing or content finding  (ffuz), httprobe , byp4xx 
 
 usefull wordlist if needed (wordlist are already in kali linux seclists but if you need more then checkout):<a href="https://github.com/anurag708989/SecLists"> USEFUL WORDLIST </a>
 
