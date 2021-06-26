@@ -28,4 +28,7 @@ software for organizing the work: xmind
 ### Part 3 directry fuzzing or content finding  (ffuz), httprobe , bypxx 
 
 <a href="https://github.com/tomnomnom/httprobe">HTTPROBE</a>
+
+<a href="https://github.com/ffuf/ffuf">FFUZ</a>
+
 most used ffuz command : ffuf -p 0.1 -t 1 -w ~/wordlists/content.txt -u https://www.website.com
