@@ -26,3 +26,6 @@ software for organizing the work: xmind
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
 
 ### Part 3 directry fuzzing or content finding  (ffuz), httprobe , bypxx 
+
+<a href="https://github.com/tomnomnom/httprobe">HTTPROBE</a>
+most used ffuz command : ffuf -p 0.1 -t 1 -w ~/wordlists/content.txt -u https://www.website.com
