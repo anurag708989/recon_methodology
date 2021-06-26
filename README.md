@@ -9,6 +9,7 @@ Increasing the target region:
 ### google dorks:
 
 site: *.hackerone.com
+
 site: *.*.hackerone.com
 
 ### sublis3r
