@@ -33,12 +33,12 @@ usefull wordlist if needed (wordlist are already in kali linux seclists but if y
 <a href="https://github.com/tomnomnom/httprobe">HTTPROBE</a>
 
 ```
-https://github.com/tomnomnom/httprobe
+ git clone https://github.com/tomnomnom/httprobe
 ```
 
 <a href="https://github.com/ffuf/ffuf">FFUZ</a>
 ```
-https://github.com/ffuf/ffuf
+git clone https://github.com/ffuf/ffuf
 ```
 
 most used ffuz command : ffuf -p 0.1 -t 1 -w ~/wordlists/content.txt -u https://www.website.com
