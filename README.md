@@ -25,7 +25,7 @@ software for organizing the work: xmind
 
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
 
-### Part 3 directry fuzzing or content finding  (ffuz), httprobe , bypxx 
+### Part 3 directry fuzzing or content finding  (ffuz), httprobe , byp4xx 
 
 <a href="https://github.com/tomnomnom/httprobe">HTTPROBE</a>
 
