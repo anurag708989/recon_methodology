@@ -20,6 +20,10 @@ sublist3r -d domain-name
 
 dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 
+### subfinder
+
+<a href="https://github.com/projectdiscovery/subfinder"> subfinder</a>
+
 
 ###  2 How to organise work for bug bounty 
 
