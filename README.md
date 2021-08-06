@@ -53,7 +53,7 @@ ffuf -p 0.1 -t 1 -w ~/wordlists/content.txt -u https://www.website.com
 ffuz command vary for different request such as requests containing parameters and cookies so 
 from my opinion just brute force directries and use burp suit for another stuff but if you don't know to use burp then see the documentation from above link and hack!!!.
 
-### Github Recon
+### <a href="https://youtu.be/Kya7bSGnJjY">Github Recon</a>
 
 Resources and References
 Github Dorks
