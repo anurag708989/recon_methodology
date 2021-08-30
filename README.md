@@ -76,10 +76,22 @@ zendesk-gcp/
 ### Automated github recon using GitDorker
 #### see original repo here : <a href="https://github.com/obheda12/GitDorker">GitDorker</a>
 
-#### see tutorial here : 
+#### see tutorial here : <a href="https://youtu.be/zgpDx41LsL4">youtube_automated_github_recon_tutorial</a>
 
 #### google output sheet ably : <a href="https://docs.google.com/spreadsheets/d/12wDg1ma56622LooraVT7BV9-GFEKs5G0wIzIzTuScig/edit?usp=sharing">reconSheetAbly</a>
 
 ### Steps:
+1 clone the repository 
+```
+git clone https://github.com/obheda12/GitDorker.git
+```
+2. move to GitDorker diretry 
 
+```
+cd GitDorker
 
+```
+3. installation steps
+```
+pip3 install -r requirements.txt
+```
