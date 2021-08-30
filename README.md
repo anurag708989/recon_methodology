@@ -71,3 +71,15 @@ Assetnote
 https://blog.assetnote.io/bug-bounty/2019/04/23/getting-access-
 zendesk-gcp/
 
+
+
+### Automated github recon using GitDorker
+#### see original repo here : <a href="https://github.com/obheda12/GitDorker">GitDorker</a>
+
+#### see tutorial here : 
+
+#### google output sheet ably : <a href="https://docs.google.com/spreadsheets/d/12wDg1ma56622LooraVT7BV9-GFEKs5G0wIzIzTuScig/edit?usp=sharing">reconSheetAbly</a>
+
+### Steps:
+
+
