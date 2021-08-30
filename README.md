@@ -95,12 +95,16 @@ cd GitDorker
 ```
 pip3 install -r requirements.txt
 ```
-4. generate personal access token 
+4. use this command for more options
+```
+python3 GitDorker.py -h
+```
+5. generate personal access token 
 githubAccount > settings > developer settings > personal access tokens
 
-5. copy the tokens to a file say  github_token_for_gitdoreker.txt
+6. copy the tokens to a file say  github_token_for_gitdoreker.txt
 
-6. just run command
+7. just run command
 ```
 python3 GitDorker.py -q <give primary query here - say tesla.com> -tf github_token_for_gitdorker.txt -d dorks_file.txt -o output.csv
 ```
