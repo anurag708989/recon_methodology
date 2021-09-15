@@ -24,14 +24,15 @@ dnsrecon -d hackerone.com -D ~/wordlists/subdomains.txt -t brt
 
 <a href="https://github.com/projectdiscovery/subfinder"> subfinder</a>
 
-
-###  2 How to organise work for bug bounty 
+### 2 Recon from google dorks see this amazing tool Bigbounty recon
+<a href="https://github.com/Viralmaniar/BigBountyRecon">BIGBOUNTY RECON</A>
+###  3 How to organise work for bug bounty 
 
 software for organizing the work: xmind
 
 <a href="https://github.com/anurag708989/recon_methodology/blob/main/jasonHaddix_PentestingTemplate.xmind">JASON HADIX TEMPLATE</a>
 
-### 3 directry fuzzing or content finding  (ffuz), httprobe , byp4xx 
+### 4 directry fuzzing or content finding  (ffuz), httprobe , byp4xx 
 
 usefull wordlist if needed (wordlist are already in kali linux seclists but if you need more then checkout):<a href="https://github.com/anurag708989/SecLists"> USEFUL WORDLIST </a>
 
@@ -56,7 +57,7 @@ from my opinion just brute force directries and use burp suit for another stuff 
 ### <a href="https://youtu.be/Kya7bSGnJjY">Github Recon</a>
 
 Resources and References
-Github Dorks
+### 5 Github Dorks
 https://securitytrails.com/blog/github-dorks
 GitROB
 https://michenriksen.com/blog/gitrob-now-in-go/
@@ -73,7 +74,7 @@ zendesk-gcp/
 
 
 
-### Automated github recon using GitDorker
+### 6 Automated github recon using GitDorker
 #### see original repo here : <a href="https://github.com/obheda12/GitDorker">GitDorker</a>
 
 #### see tutorial here : <a href="https://youtu.be/zgpDx41LsL4">youtube_automated_github_recon_tutorial</a>
