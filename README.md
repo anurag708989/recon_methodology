@@ -109,3 +109,12 @@ githubAccount > settings > developer settings > personal access tokens
 ```
 python3 GitDorker.py -q <give primary query here - say tesla.com> -tf github_token_for_gitdorker.txt -d dorks_file.txt -o output.csv
 ```
+
+### 7 Automated S3 bucket recon using lazys3 and s3scanner
+#### lazys3 (<a href="https://github.com/nahamsec/lazys3">Nahamsec s3</a>)
+##### Details:
+A Ruby script to bruteforce for AWS s3 buckets using different permutations.
+usage
+```
+ruby lazys3.rb <company>
+```
