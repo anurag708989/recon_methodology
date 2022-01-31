@@ -118,3 +118,28 @@ usage
 ```
 ruby lazys3.rb <company>
 ```
+
+
+### 8 Getting Starting with AWS pentesting |  s3 buckets
+
+full youtube video: 
+
+chrome extension (uDomainFlag) : https://chrome.google.com/webstore/detail/udomainflag/eklbfdpploakpkdakoielobggbhemlnm?hl=en
+
+s3 vulnerability:
+bucket listing
+---> all public access
+
+``` 
+aws s3 ls s3://flaws.cloud --region us-west-2 --no-sign-request
+```
+---> acess to aws users only
+aws should be configured
+command  to set configuration:
+```
+aws configure
+```
+
+```
+aws s3 ls s3://flaws.cloud --region us-west-2 
+```
