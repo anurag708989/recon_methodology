@@ -122,7 +122,7 @@ ruby lazys3.rb <company>
 
 ### 8 Getting Starting with AWS pentesting |  s3 buckets
 
-full youtube video: 
+full youtube video: https://youtu.be/zO06tfmnhZg
 
 chrome extension (uDomainFlag) : https://chrome.google.com/webstore/detail/udomainflag/eklbfdpploakpkdakoielobggbhemlnm?hl=en
 
