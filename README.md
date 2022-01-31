@@ -2,6 +2,8 @@
 recon from my perspective and  combining different methodlogies of security reasearchers such as jason haddix , nahamsec and more
 
 ### Access playlist here : <a href="https://www.youtube.com/watch?v=W8XT_KIzxBA&list=PLf3J-S0CLK3VSusI8Gn4f4ZKS16UIn720">Recon Playlist </a>
+### POCs playlist : <a href="https://www.youtube.com/playlist?list=PLf3J-S0CLK3WBYAILJWkjk5-PHjUinwyv">Proof of concepts playlist</a>
+### New playlists: <a href="https://youtu.be/zO06tfmnhZg">AWS pentesting playlist</a>
 
 Increasing the target region:
 
