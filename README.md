@@ -146,6 +146,13 @@ now use it in nuclei
 nuclei -l subdomain_1.txt -t path-to-template -o output-file.txt
 ```
 
+#### using host command
+
+```
+host target.com
+```
+
+
 
 s3 vulnerability:
 bucket listing
@@ -164,3 +171,8 @@ aws configure
 ```
 aws s3 ls s3://flaws.cloud --region us-west-2 
 ```
+
+
+tools for s3 crawl/enum : https://github.com/mxm0z/awesome-sec-s3
+
+Bucket flaws: https://github.com/nikhil1232/Bucket-Flaws
