@@ -126,6 +126,27 @@ full youtube video:
 
 chrome extension (uDomainFlag) : https://chrome.google.com/webstore/detail/udomainflag/eklbfdpploakpkdakoielobggbhemlnm?hl=en
 
+
+#### using nuclei:
+
+you can use technologies template to detect s3
+
+for example using subfinder 
+
+1.
+```
+subfinder -d target.com | httprobe -prefer-https | tee subdomain_1.txt
+```
+
+now use it in nuclei
+
+2.
+
+```
+nuclei -l subdomain_1.txt -t path-to-template -o output-file.txt
+```
+
+
 s3 vulnerability:
 bucket listing
 ---> all public access
@@ -133,7 +154,7 @@ bucket listing
 ``` 
 aws s3 ls s3://flaws.cloud --region us-west-2 --no-sign-request
 ```
----> acess to aws users only
+---> access to aws users only
 aws should be configured
 command  to set configuration:
 ```
