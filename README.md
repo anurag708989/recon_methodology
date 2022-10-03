@@ -1,4 +1,4 @@
-# Recon_methodology 
+# Recon_and_bugbounty_methodology 
 recon from my perspective and  combining different methodlogies of security reasearchers such as jason haddix , nahamsec and more
 
 ### Access playlist here : <a href="https://www.youtube.com/watch?v=W8XT_KIzxBA&list=PLf3J-S0CLK3VSusI8Gn4f4ZKS16UIn720">Recon Playlist </a>
